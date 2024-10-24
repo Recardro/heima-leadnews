@@ -6,3 +6,10 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/dataSources/04ad773c-5f7a-426a-bf1a-54f632d5c362/storage_v2/_src_/schema/information_schema.FNRwLQ.meta
+/dataSources/04ad773c-5f7a-426a-bf1a-54f632d5c362/storage_v2/_src_/schema/leadnews_article.5vCr8w.meta
+/dataSources/04ad773c-5f7a-426a-bf1a-54f632d5c362/storage_v2/_src_/schema/leadnews_user.282nkQ.meta
+/dataSources/04ad773c-5f7a-426a-bf1a-54f632d5c362/storage_v2/_src_/schema/mysql.osA4Bg.meta
+/dataSources/04ad773c-5f7a-426a-bf1a-54f632d5c362/storage_v2/_src_/schema/performance_schema.kIw0nw.meta
+/dataSources/04ad773c-5f7a-426a-bf1a-54f632d5c362/storage_v2/_src_/schema/sys.zb4BAA.meta
+/dataSources/04ad773c-5f7a-426a-bf1a-54f632d5c362.xml
