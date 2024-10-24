@@ -17,7 +17,7 @@ public class MinIOTest {
         FileInputStream fileInputStream = null;
         try {
 
-            fileInputStream =  new FileInputStream("D:\\list.html");;
+            fileInputStream =  new FileInputStream("E:\\list.html");;
 
             //1.创建minio链接客户端
             MinioClient minioClient = MinioClient.builder().credentials("minio", "minio123").endpoint("http://192.168.200.130:9000").build();
