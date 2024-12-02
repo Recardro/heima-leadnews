@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/../黑马头条学习资料/01/资料/sql脚本/leadnews_user.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../黑马头条学习资料/03/资料/自媒体sql脚本/leadnews_wemedia.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../黑马头条学习资料/day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/sql脚本/leadnews_article.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../黑马头条学习资料/day04-自媒体文章审核/资料/wm_sensitive.sql" dialect="MySQL" />
   </component>
 </project>

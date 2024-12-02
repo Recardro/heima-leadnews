@@ -3,13 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>heima-leadnews</artifactId>
+        <artifactId>heima-leadnews-test</artifactId>
         <groupId>com.heima</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>heima-leadnews-feign-api</artifactId>
+    <artifactId>tess4j-demo</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -18,22 +18,18 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.heima</groupId>
-            <artifactId>heima-leadnews-model</artifactId>
+            <groupId>net.sourceforge.tess4j</groupId>
+            <artifactId>tess4j</artifactId>
+            <version>4.1.1</version>
         </dependency>
         <dependency>
-            <groupId>com.heima</groupId>
-            <artifactId>heima-leadnews-common</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+
         <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-openfeign</artifactId>
-        </dependency>
-        <!-- 负载均衡-->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-loadbalancer</artifactId>
-            <version>3.0.3</version>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
         </dependency>
 
     </dependencies>
